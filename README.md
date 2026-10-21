@@ -62,3 +62,5 @@ LoRA の学習、Kaggle へのアップロード、エントリー操作は未�
 [修正版ノートブックをColabで開く](https://colab.research.google.com/github/IrohasDarknesss/Gemma-4-Developer-Agent-Competition/blob/master/notebooks/Untitled1_gemma_ready.ipynb)
 
 アップロード用の [colab-source.zip](downloads/colab-source.zip) と [submission.zip](downloads/submission.zip) は `downloads/` に保存しています。GitHubで各ファイルの「Download raw file」からダウンロードできます。ZIPは現時点のスナップショットです。設定変更後はパッケージャーで提出ZIPを再生成してください。
+
+Colabノートブックの「共有された評価データの取得」で、指定されたGoogle Driveファイルを取得し、アーカイブのファイル一覧を確認できます。データ自体はGitHubに含めていません。ダウンロード・データ内容の確認はColab上で実行する必要があります。
